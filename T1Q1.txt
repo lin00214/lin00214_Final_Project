@@ -1,0 +1,7 @@
+ls
+cd Documents
+cd code
+ls
+cd lin00214_Final_Project
+ls
+node T1Q1.txt
